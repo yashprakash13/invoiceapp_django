@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     "rest_framework.authtoken",
     "corsheaders",
     "djoser",
+    "apps.client.apps.ClientConfig",
+    
 ]
 
 MIDDLEWARE = [
