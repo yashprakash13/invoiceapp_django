@@ -10,6 +10,7 @@ django-rest-framework = "*"
 django-cors-headers = "*"
 black = "*"
 isort = "*"
+pre-commit = "*"
 
 [dev-packages]
 
